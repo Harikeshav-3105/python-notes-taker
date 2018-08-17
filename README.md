@@ -8,6 +8,8 @@ cd python-notes-taker
 
 cd notes
 
+pip install -r rquirements.txt
+
 python/python3 notes.py
 
 About the developer:
